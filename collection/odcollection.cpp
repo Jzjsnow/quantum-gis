@@ -1,5 +1,6 @@
 #include "odcollection.h"
-#include "auxiliary_func.h"
+#include"../auxiliary_func.h"
+
 ODcollection::ODcollection()
 {
 
